@@ -11,3 +11,7 @@ sashe: "https://www.sashe.sk/ha.ly"
 # Site config
 baseurl: ""
 highlighter: rouge
+sass:
+    sass_dir: assets/scss
+    style: compressed
+  
