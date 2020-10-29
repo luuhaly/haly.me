@@ -1,12 +1,11 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+author: "Hà Ly"
+tagline: "Handmade by a Vietnamese in Slovakia"
+description: "Hi! My name is Ly and I am a Vietnamese living in Slovakia. I am a handmade lover and maker. People say that I am amazing 😉"
+keywords: "Handmade, Vietnamese, Design"
+email: "luuhaly90@gmail.com"
+instagram: "https://www.instagram.com/luu.ha.ly/"
+sashe: "https://www.sashe.sk/ha.ly"
 
 # Site config
 baseurl: ""
