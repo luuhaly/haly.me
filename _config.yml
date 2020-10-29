@@ -9,7 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: ""
+baseurl: "haly.me/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
