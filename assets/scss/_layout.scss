@@ -56,49 +56,6 @@
 	}
 }
 
-.photos-list {
-	@media (min-width: $breakpoint-small) {
-		margin-left: -1.5rem;
-		margin-right: -1.5rem;
-		@include clearfix;
-
-		li {
-			float: left;
-			width: 50%;
-		}
-
-		a {
-			padding: 0 1.5rem;
-		}
-	}
-
-	@media (min-width: $breakpoint-medium) {
-		li {
-			width: 33.33333%;
-		}
-	}
-
-	li {
-		margin-bottom: 3rem;
-
-		&:last-child {
-			margin-bottom: 0;
-		}
-	}
-
-	a {
-		display: block;
-	}
-
-	img {
-		width: 100%;
-	}
-
-	span {
-		margin: 1rem 0 .5rem;
-	}
-}
-
 .projects-list {
 	@media (min-width: $breakpoint-small) {
 		margin-left: -1.5rem;
