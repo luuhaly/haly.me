@@ -10,6 +10,10 @@ Click here: https://github.com/luuhaly/haly.me/blob/master/_config.yml
 
 Click on the pencil on the top right and make any changes to the text within quotes "". Then click on "Commit changes" on the bottom to make the change.
 
+Click here: https://github.com/luuhaly/haly.me/tree/master/assets/images?fbclid=IwAR2fo_XkE9Czu38OqTbZTK7r-R_te3JsGZovvaLu9fMAWXCeHv46balWsl8
+
+You need to replace the cover.jpg image here, Click on upload files in the top right, it has to have the same name
+
 ## How to add a product?
 
 1. Add photos
