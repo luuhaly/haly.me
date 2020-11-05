@@ -32,7 +32,8 @@ On the top, enter the name of the file. It should be something like: 2020-10-31-
 (so YEAR-MONTH-DAY-KEYWORD.md).
 Below in the large blank editor, copy this (make sure to copy the whole thing):
 
-```---
+```
+---
 layout: project
 permalink: /:title/
 category: projects
