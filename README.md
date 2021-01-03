@@ -74,6 +74,12 @@ images:
 
 Then edit the text according to your product. Change the project title, type, url, photos, and so on. To change the photos, only change their file names (the last part of the file path) according to the files you uploaded in the previous step.
 
+## How do I edit the about page?
+
+Go here: https://github.com/luuhaly/haly.me/blob/master/about/index.html
+
+Click on the pencil on the top right and make any changes to the HTML text.
+
 ## How do I change any info about a product?
 
 Go here: https://github.com/luuhaly/haly.me/tree/master/_posts/projects
