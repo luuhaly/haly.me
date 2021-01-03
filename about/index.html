@@ -8,23 +8,15 @@
 	<meta name="description" content="{{ site.description }}">
 	<meta name="keywords" content="{{ site.keywords }}">
 	{% include head.html %}
+	<style>
+		.about p {
+			margin-bottom: 10px;
+		}
+	</style>
 </head>
 <body>
 	{% include header.html %}
 	<main class="content" style="padding: 7rem 0 0 !important">
-		<section class="projects">
-			<div class="container">
-				<ul class="photos-list">
-					<li>
-						<a href="{{ site.baseurl }}">
-							<div class="img-wrapper">
-								<img src="/assets/images/cover.jpg" alt="{{ site.author_full }}" />
-							</div>
-						</a>
-					</li>
-				</ul>
-			</div>
-		</section>
 		<section class="intro">
 			<div class="container">
 				<h2>About me.</h2>
@@ -33,7 +25,7 @@
 				</p>
 			</div>
 		</section>
-		<section>
+		<section class="about">
 			<div class="container">
 				<p>
 					I love the feeling of walking into a garment store or a huge fabric market with a variety of colors, materials.
