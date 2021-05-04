@@ -31,6 +31,9 @@ images:
   - image:
     url: "/assets/images/projects/BB4.jpg"
     alt: "Clutch"
+  - image:
+    url: "/assets/images/projects/BB4.jpg"
+    alt: "Clutch"
 ---
 <p>
   The clutch is designed a bit bigger compared to the pouch. It is more useful as it can contain all your necessary items such as phone, key, cards, money and even your kindle.
