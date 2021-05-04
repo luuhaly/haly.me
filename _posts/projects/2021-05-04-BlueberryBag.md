@@ -20,9 +20,6 @@ store:
 
 images:
   - image:
-    url: "/assets/images/projects/BB1.jpg"
-    alt: "Clutch"
-  - image:
     url: "/assets/images/projects/BB2.jpg"
     alt: "Clutch"
   - image:
@@ -32,7 +29,7 @@ images:
     url: "/assets/images/projects/BB4.jpg"
     alt: "Clutch"
   - image:
-    url: "/assets/images/projects/BB4.jpg"
+    url: "/assets/images/projects/BB5.jpg"
     alt: "Clutch"
 ---
 <p>
