@@ -10,7 +10,7 @@ project:
   title: "The Clutch"
   type: "Bag"
   url: "https://www.sashe.sk/ha.ly"
-  logo: "/assets/images/projects/BB1.jpg"
+  logo: "/assets/images/projects/BB1.jpeg"
   materials: "Corduroy"
 
 store:
@@ -20,16 +20,16 @@ store:
 
 images:
   - image:
-    url: "/assets/images/projects/BB2.jpg"
+    url: "/assets/images/projects/BB2.jpeg"
     alt: "Clutch"
   - image:
-    url: "/assets/images/projects/BB3.jpg"
+    url: "/assets/images/projects/BB3.jpeg"
     alt: "Clutch"
   - image:
-    url: "/assets/images/projects/BB4.jpg"
+    url: "/assets/images/projects/BB4.jpeg"
     alt: "Clutch"
   - image:
-    url: "/assets/images/projects/BB5.jpg"
+    url: "/assets/images/projects/BB5.jpeg"
     alt: "Clutch"
 ---
 <p>
