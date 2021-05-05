@@ -10,7 +10,7 @@ project:
   title: "The Pink Pouch"
   type: "Bag"
   url: "https://www.sashe.sk/ha.ly"
-  logo: "/assets/images/projects/PP1.jpeg"
+  logo: "/assets/images/projects/PP0.jpeg"
   materials: "Corduroy"
 
 store:
