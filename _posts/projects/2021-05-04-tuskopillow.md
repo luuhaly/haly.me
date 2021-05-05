@@ -10,7 +10,7 @@ project:
   title: "The Elephant"
   type: "Pillow"
   url: "https://www.sashe.sk/ha.ly"
-  logo: "/assets/images/projects/TP1.jpeg"
+  logo: "/assets/images/projects/TP0.jpeg"
   materials: "Linen"
 
 store:
