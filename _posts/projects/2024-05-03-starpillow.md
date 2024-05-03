@@ -23,19 +23,22 @@ images:
     url: "/assets/images/projects/SP02.jpg"
     alt: "Boucle Star Pillow"
   - image:
-    url: "/assets/images/projects/SP03.jpg"
+    url: "/assets/images/projects/SP03.jpeg"
     alt: "Boucle Star Pillow"
   - image:
-    url: "/assets/images/projects/SP04.jpg"
+    url: "/assets/images/projects/SP04.jpeg"
     alt: "Boucle Star Pillow"
   - image:
     url: "/assets/images/projects/SP05.jpg"
     alt: "Boucle Star Pillow"
   - image:
-    url: "/assets/images/projects/SP06.jpg"
+    url: "/assets/images/projects/SP06.jpeg"
     alt: "Boucle Star Pillow"
   - image:
-    url: "/assets/images/projects/SP07.jpg"
+    url: "/assets/images/projects/SP07.jpeg"
+    alt: "Boucle Star Pillow"
+  - image:
+    url: "/assets/images/projects/SP08.jpeg"
     alt: "Boucle Star Pillow"
 ---
 <p>
