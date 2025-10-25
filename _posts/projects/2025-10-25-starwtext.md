@@ -10,7 +10,7 @@ project:
   title: "The Little Stars"
   type: "Fabric"
   url: "https://www.sashe.sk/ha.ly"
-  logo: "/assets/images/projects/cactus.jpg"
+  logo: "/assets/images/projects/SPT2.jpg"
   materials: "Linen"
 
 store:
