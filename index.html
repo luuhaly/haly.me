@@ -63,19 +63,17 @@
 <!-- <button id="scrollUpBtn" title="Go to top">↑</button>
 <script src="/assets/scripts/scroll-up.js"></script> -->
 
-<a href="#top" class="swipe-cue" aria-label="Scroll to top">
-  <div id="swipeLottie" class="swipe-cue__lottie"></div>
-</a>
-<script src="/assets/js/lottie.min.js"></script> <!-- self-host or CDN -->
-<script>
-  lottie.loadAnimation({
-    container: document.getElementById('swipeLottie'),
-    renderer: 'svg',
-    loop: true,
-    autoplay: true,
-    path: '/assets/anim/swipe-up.json'
-  });
-</script>
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.5/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
+<dotlottie-wc
+  src="https://lottie.host/688ab38f-f241-4d19-8df6-0b6b0597145c/aFzRr39e5K.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 
 </body>
 </html>
