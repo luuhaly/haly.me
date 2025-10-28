@@ -60,8 +60,22 @@
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
 	<script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
 
-<button id="scrollUpBtn" title="Go to top">↑</button>
-<script src="/assets/scripts/scroll-up.js"></script>
+<!-- <button id="scrollUpBtn" title="Go to top">↑</button>
+<script src="/assets/scripts/scroll-up.js"></script> -->
+
+<a href="#top" class="swipe-cue" aria-label="Scroll to top">
+  <div id="swipeLottie" class="swipe-cue__lottie"></div>
+</a>
+<script src="/assets/js/lottie.min.js"></script> <!-- self-host or CDN -->
+<script>
+  lottie.loadAnimation({
+    container: document.getElementById('swipeLottie'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '/assets/anim/swipe-up.json'
+  });
+</script>
 
 </body>
 </html>
