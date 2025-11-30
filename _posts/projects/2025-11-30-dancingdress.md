@@ -15,8 +15,8 @@ project:
 
 store:
   title: "My personal treasure 💛, not for sale"
-  
-year: "2023"
+  url: ""
+  year: "2023"
 
 images:
   - image:
