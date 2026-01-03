@@ -14,7 +14,7 @@
 .logo {
 	float: left;
 	font-size: 3.3rem;
-	font-weight: 300;
+	font-weight: 400;
 	margin: 0;
 	line-height: 1;
 }
@@ -151,7 +151,7 @@
 			content: "View Project";
 			color: $color-white;
 			@extend .h2;
-			font-weight: 800;
+			font-weight: 700;
 			position: absolute;
 			top: 50%;
 			left: 50%;
